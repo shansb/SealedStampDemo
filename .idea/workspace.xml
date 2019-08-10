@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="478a3411-e02a-4b40-bc96-b9500d775cea" name="Default Changelist" comment="init commit">
+      <change afterPath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/SealedStampDemo/simhei.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/SealedStampDemo/stamp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/SealedStampDemo/test/testTemplate.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/SealedStampDemo/tinysun.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/test/demo.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/test/testTemplate.html" beforeDir="false" afterPath="$PROJECT_DIR$/resources/test/testTemplate.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/nbcb/pdf/PdfMaker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/top/imshan/pdf/PdfMaker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/nbcb/utils/ImageHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/top/imshan/utils/ImageHelper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/nbcb/utils/PdfFooterPager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/top/imshan/utils/PdfFooterPager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/com/nbcb/devtools/Html2Xhtml.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/top/imshan/devtools/Html2Xhtml.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/com/nbcb/pdf/PdfMakerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/top/imshan/pdf/PdfMakerTest.java" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CheckStyle-IDEA-workspace">
+    <option name="configuration">
+      <map>
+        <entry key="last-active-plugin-version" value="5.22.0" />
+      </map>
+    </option>
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1P37QBigvhjdHEXkfR5R40Fp3ZS" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1564373299718" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\MyWork\git\SealedStampDemo\test\com\nbcb\devtools" />
+      <recent name="C:\MyWork\git\SealedStampDemo\libs" />
+      <recent name="C:\MyWork\git\SealedStampDemo\resources" />
+      <recent name="C:\MyWork\git\SealedStampDemo\src\com\nbcb\pdf" />
+      <recent name="C:\MyWork\git\SealedStampDemo\src\com\nbcb\utils" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="PdfMakerTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="top.imshan.pdf.PdfMakerTest" />
+      <module name="SealedStampDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.nbcb.pdf.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="C:\MySoftware\jdk1.6forNH\jre" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.nbcb.pdf.PdfMakerTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.PdfMakerTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="478a3411-e02a-4b40-bc96-b9500d775cea" name="Default Changelist" comment="" />
+      <created>1564107639421</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1564107639421</updated>
+    </task>
+    <task id="LOCAL-00001" summary="init commit">
+      <created>1564373194813</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1564373194813</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="init commit" />
+  </component>
+</project>
